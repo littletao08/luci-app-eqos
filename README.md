@@ -1,4 +1,4 @@
-# Easy QoS for OpenWRT/Lede([中文](https://github.com/lwxlwxlwx/eqos/blob/master/README_ZH.md))
+# Easy QoS for OpenWRT/Lede([中文](https://github.com/swxk521/luci-app-eqos/blob/main/README_ZH.md))
 
 ![](https://img.shields.io/badge/license-GPLV3-brightgreen.svg?style=plastic "License")
 
