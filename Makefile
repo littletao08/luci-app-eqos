@@ -18,7 +18,7 @@ include $(INCLUDE_DIR)/package.mk
 define Package/eqos
   SECTION:=net
   CATEGORY:=Network
-  DEPENDS:=+tc +kmod-sched-core +kmod-ifb
+  DEPENDS:=+tc +kmod-sched-core +kmod-ifb +wget-ssl
   TITLE:=Easy QoS(Support speed limit based on IP address)
   PKGARCH:=all
 endef
